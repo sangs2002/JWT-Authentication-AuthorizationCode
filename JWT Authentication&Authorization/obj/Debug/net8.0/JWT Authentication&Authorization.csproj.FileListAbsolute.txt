@@ -1,0 +1,7 @@
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.csproj.AssemblyReference.cache
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.AssemblyInfoInputs.cache
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.AssemblyInfo.cs
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.csproj.CoreCompileInputs.cache
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\API\JWT Authentication&Authorization\JWT Authentication&Authorization\obj\Debug\net8.0\JWT Authentication&Authorization.MvcApplicationPartsAssemblyInfo.cache
